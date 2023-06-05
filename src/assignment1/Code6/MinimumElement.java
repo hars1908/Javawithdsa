@@ -1,3 +1,4 @@
+//Write a program to input three numbers(A, B & C) from user and print the minimum element among A, B & C.
 package assignment1.Code6;
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+//Write a program to input three numbers(A, B & C) from user and print the maximum element among A, B & C in each line.
 package assignment1.code3;
 import java.util.Scanner;
 public class MaxElement {

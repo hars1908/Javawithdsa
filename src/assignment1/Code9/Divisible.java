@@ -1,3 +1,6 @@
+/*
+Take an integer A as input. You have to tell whether A is divible by both 5 and 11 or not.
+*/
 package assignment1.Code9;
 
 import java.util.Scanner;
