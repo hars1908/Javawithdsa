@@ -1,8 +1,8 @@
-package Assignment2.Code1;
+package Assignment2.Code6;
 
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class Factors {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -14,10 +14,6 @@ public class PrimeNumber {
             }
             i++;
         }
-        if(count==2){
-            System.out.println("prime");
-        }else{
-            System.out.println("Not Prime");
-        }
+        System.out.println(count);
     }
 }
